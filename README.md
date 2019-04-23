@@ -14,17 +14,9 @@ Summary: A flake8 plugin to lint pandas in an opinionated way
 Current build status
 ====================
 
-
-<table><tr>
-    
-    <td>All platforms:</td>
-    <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=6579&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pandas-vet-feedstock?branchName=master">
-      </a>
-    </td>
-  </tr>
-</table>
+| All platforms: |
+| --- |
+| ![Azure DevOps builds (branch)](https://img.shields.io/azure-devops/build/conda-forge/84710dde-1620-425b-80d0-4cf5baca359d/6579/master.svg) |
 
 Current release info
 ====================
