@@ -1,5 +1,5 @@
 {% set name = "pandas-vet" %}
-{% set version = "0.2.1" %}
+{% set version = "0.2.2" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: f4e32167a948bc8553c15dd5ae7d4de2651f8cc3d7a370de358e9c061197c033
+  sha256: 0a316c3edaaa1bcd772bfaea0e8d2b2aa409b740198746a2b60f2007b313f42e
 
 build:
   noarch: python
