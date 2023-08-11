@@ -19,6 +19,7 @@ requirements:
     - pip
     - python >=3.8
     - hatch
+    - hatch-regex-commit
   run:
     - attrs >=19.2.0
     - flake8 >6.0.0
