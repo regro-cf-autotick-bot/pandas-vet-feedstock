@@ -1,4 +1,4 @@
-{% set name = "pandas-vet" %}
+{% set name = "pandas_vet" %}
 {% set version = "2023.8.2" %}
 
 package:
